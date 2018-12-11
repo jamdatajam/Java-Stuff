@@ -1,0 +1,6 @@
+0,Cherry Cola,1.5,bottle-soda,liter,0.5,9,
+1,Bubble Soda,2.0,bottle-soda,liter,0.5,3,
+2,Caomei Soy Milk,1.0,carton-milk,liter,0.2,6,
+3,Cheese Poofs,2.0,bag-medium,ounces,6.0,8,
+4,Qiaokeli Bar,3.0,wrapper-medium,ounces,4.0,16,
+5,Bingqiling Pop,5.0,tub-medium,ounces,8.0,5,
